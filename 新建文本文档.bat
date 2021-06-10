@@ -1,1 +1,1 @@
-for %%i in (*.js)  do ren "%%i" lxk"%%i"
+for %%i in (*.js)  do ren "%%i" a_"%%i"
